@@ -5,6 +5,9 @@ Desafio proposto pela plataforma [Full Cycle](https://fullcycle.com.br/ "Full Cy
 
 > "A imagem docker pode ser encontrada no link: https://hub.docker.com/r/cristianoxavier/fullcycle"
 
+> "Utilizei conceitos de Multistage Building para conseguir chegar aos 2MB."
+
+
 ##### Para executar digite os seguintes comandos.
 
 ```
